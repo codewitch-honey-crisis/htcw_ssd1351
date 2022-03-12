@@ -5,7 +5,7 @@ platform = espressif32
 board = node32s
 framework = arduino
 lib_deps = 
-	codewitch-honey-crisis/htcw_st7735@^1.0.0
+	codewitch-honey-crisis/htcw_st1351@^1.0.0
 lib_ldf_mode = deep
 build_unflags=-std=gnu++11
 build_flags=-std=gnu++14
