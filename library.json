@@ -1,6 +1,6 @@
 {
     "name": "htcw_ssd1351",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Provides support for the SSD1351 display device w/ GFX",
     "keywords": ["tft","st1351","oled","graphics","drawing"],
     "authors": {
@@ -20,8 +20,8 @@
         "url": "https://github.com/codewitch-honey-crisis/htcw_ssd1351.git"
     },
     "dependencies": {
-        "codewitch-honey-crisis/htcw_gfx": "^1.0.8",
-        "codewitch-honey-crisis/htcw_tft_io": "^1.0.1"
+        "codewitch-honey-crisis/htcw_gfx": "^1.0.9",
+        "codewitch-honey-crisis/htcw_tft_io": "^1.0.2"
     },
     "examples": [
         {
